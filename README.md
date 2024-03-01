@@ -8,7 +8,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ## URL
 
-- Live Site URL: [https://dan-vc.github.io/FrontEnd-Mentor-Product-Preview/](https://dan-vc.github.io/FrontEnd-Mentor-Product-Preview/)
+- Live Site URL: [https://dan-vc.github.io/FrontEnd-Mentor-Social-Links/](https://dan-vc.github.io/FrontEnd-Mentor-Social-Links/))
 
 ## Author
 
