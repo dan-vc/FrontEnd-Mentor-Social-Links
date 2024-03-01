@@ -8,9 +8,9 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ## URL
 
-- Live Site URL: [https://dan-vc.github.io/FrontEnd-Mentor-Social-Links/](https://dan-vc.github.io/FrontEnd-Mentor-Social-Links/))
+- Live Site URL: [https://dan-vc.github.io/FrontEnd-Mentor-Social-Links/](https://dan-vc.github.io/FrontEnd-Mentor-Social-Links/)
 
 ## Author
 
-- Website - [Daniel Villafranqui] [https://dan-vc.github.io/Proyecto-Pagina-Web-Personal/](https://dan-vc.github.io/Proyecto-Pagina-Web-Personal/)
-- Frontend Mentor - [@dan-vc] [https://www.frontendmentor.io/profile/dan-vc](https://www.frontendmentor.io/profile/dan-vc)
+- Website - [Daniel Villafranqui](https://dan-vc.github.io/Proyecto-Pagina-Web-Personal/)
+- Frontend Mentor - [@dan-vc](https://www.frontendmentor.io/profile/dan-vc)
